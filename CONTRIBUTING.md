@@ -266,3 +266,9 @@
 - 📍 Place: City, State, Country
 - ⏳ Bio: Student | Frontend Developer | Backend Developer
 - 🚀 GitHub: [Damini Chachane](https://github.com/Damini2004)
+
+
+#### Name: [Darakhshan Naheed](https://github.com/khandolly786)
+- 📍 Place: Dhanbad, Jharkhand, India
+- ⏳ Bio: Student | Frontend Developer | Backend Developer
+- 🚀 GitHub: [Darakhshan Naheed](https://github.com/khandolly786)
